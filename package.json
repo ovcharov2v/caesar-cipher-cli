@@ -1,0 +1,14 @@
+{
+  "name": "rsschool-caesar-cipher.loc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node caesar-cipher-cli/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
